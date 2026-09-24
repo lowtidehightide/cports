@@ -1,3 +1,8 @@
+> [!CAUTION]
+> This is my personal fork of [cports](https://github.com/chimera-linux/cports), which I use for packaging software and submitting it upstream. If you're seeing this message, you're currently in the `master` branch. In this fork, I use this branch as a merge of all my packaged software that hasn't been merged upstream.
+>
+> Thus, if you're interested in any of it out, feel free to look here, but know that this branch contains *everything*
+
 # cports
 
 Cports is a collection of source package ports for Chimera. The system has been
